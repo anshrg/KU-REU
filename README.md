@@ -1,2 +1,3 @@
-# KU-REU
-Project repo for my REU work at the University of Kansas
+# Ionization Conditions in CEERS Galaxies and Correlation with Galaxy Properties
+
+This summer, I'm taking part in an REU at the University of Kansas working with [Allison Kirkpatrick](https://physics.ku.edu/people/kirkpatrick-allison) on ionization conditions in JWST [CEERS](https://ceers.github.io/) galaxies. I'm using data from the NIRSpec instrument on the James Webb Space Telescope to identify the brightness of spectral lines in galaxies with a redshift around 1-2. By observing the relative strength of certain spectral lines, we can glean information about how much high energy radiation is present in these galaxies. I will then probe the relationship between ionization conditions and the galaxies' mass, star formation rate, and redshift, and search for quasars within the sample.
